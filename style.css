@@ -1,4 +1,16 @@
-body {background-color:tan;}
-h1{color:green;}
+body {background-color:rgb(0, 0, 0);}
+
+ 
+.classmain{
+    background-color: white;
+    margin: auto;
+    width: 325px;
+    padding: 25px;
+    border-radius: 35px;
+}
 
 
+h1{
+    color:grey;
+    font-family: Verdana, sans-serif;
+}
